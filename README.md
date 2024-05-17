@@ -14,7 +14,7 @@ TODO (Not in any particular order):
 - [ ] Hemorrhaging
 	- [ ] Coagulation
 	- [ ] IV IO
-	- [ ] Blood Loss
+	- [x] Blood Loss
 	- [ ] Blood Types/Fluids
 - [ ] Airways / Respiration
 	- [ ] Thoracic Injuries
@@ -33,7 +33,8 @@ TODO (Not in any particular order):
 - [ ] Nephrology
 	- [ ] Kidney Function
 	- [ ] Dialysis
-- [ ] List of all settings
+- [ ] Equipment List
+- [ ] List of all addon settings
 - [ ] APPENDICIES
 	- [ ] Aid procedure
 	- [ ] M.A.R.C.H. Graphic
