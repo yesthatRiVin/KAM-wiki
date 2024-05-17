@@ -30,4 +30,10 @@ TODO (Not in any particular order):
 	- [ ] Auto-Injectors
 	- [ ] IV Medication
 - [ ] Surgery
-- [ ] Kidney Function
+- [ ] Nephrology
+	- [ ] Kidney Function
+	- [ ] Dialysis
+- [ ] List of all settings
+- [ ] APPENDICIES
+	- [ ] Aid procedure
+	- [ ] M.A.R.C.H. Graphic
