@@ -12,10 +12,11 @@ yesthatRiVin
 TODO (Not in any particular order):
 - [ ] Glow-up the README
 - [ ] Hemorrhaging
-	- [ ] Coagulation
-	- [ ] IV IO
+	- [x] Coagulation
+	- [x] IV IO
 	- [x] Blood Loss
-	- [ ] Blood Types/Fluids
+	- [x] Blood Types/Fluids
+	- [ ] Blood Transfusion
 - [ ] Airways / Respiration
 	- [ ] Thoracic Injuries
 	- [ ] Airways Management

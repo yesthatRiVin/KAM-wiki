@@ -4,12 +4,12 @@
 
 In order to administer IV fluids, you need to first establish an Intravenous (IV) or Intraosseous (IO) needle (if it is enabled in settings). KAM comes with two needle types:
 
-- **16g IV**: Only works on limbs with minor damage and no tourniquets
-- **FAST IO**: Only works on the torso, but causes pain
+- **[16g IV](/Equipment/16g%20IV.md)**: Only works on limbs with minor damage and no tourniquets
+- **[FAST IO](/Equipment/FAST%20IO.md)**: Only works on the torso, but causes pain
 
 ### IV Obstruction
 
-If you push [TXA](/Pharmacy/IV-Medication.md#txa) or [EACA](/Pharmacy/IV-Medication.md#eaca), there is a chance that the IV/IO line can become obstructed. If you notice that drugs aren't kicking in or fluid isn't flowing, 
+If you push [TXA](/Pharmacy/IV-Medication.md#txa) or [EACA](/Pharmacy/IV-Medication.md#eaca), there is a chance that the IV/IO line can become obstructed. If you notice that drugs aren't kicking in or fluid isn't flowing, perform the "Inspect Catheter" action to check for obstructions. If there is one, you will need to flush the line with saline by using the "Saline Flush". This requires that you have at least 30 ml of Saline attached to the IV/IO.
 
 ## Fluid Types
 
@@ -84,6 +84,10 @@ There are three types of fluids: Saline, Blood, & Plasma. While all fluids incre
   </tr>
 </tbody>
 </table>
+
+>[!HINT]
+>Want to save some fluids? Removing an IV with fluid still attached will put the remaining fluid in your inventory. 
+
 
 ### Blood Type
 
