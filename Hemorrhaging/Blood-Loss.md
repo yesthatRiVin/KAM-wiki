@@ -7,7 +7,10 @@ All wounds bleed. The rate at which a particular wound bleeds is dependent on th
 | 5.9 - 5.1       | Lost Some Blood              |
 | 5.1 - 4.2       | Lost a Lot of Blood          |
 | 4.2 - 3.6       | Lost a Large Amount of Blood |
-| - 3.6           | Lost a Fatal Amount of Blood |
+| 3.6 - 3.0       | Lost a Fatal Amount of Blood |
+
+>[!NOTE]
+>By default, if the player has less than 3L of blood in their body, they will die.
 
 If a player loses a fatal amount of blood, they will go into [Cardiac Arrest](/Cardiac/Cardiac-Arrest.md).
 
