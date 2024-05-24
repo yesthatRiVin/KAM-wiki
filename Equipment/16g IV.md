@@ -1,5 +1,6 @@
 # 16g IV
 
+Icon: ![16g-iv](https://user-images.githubusercontent.com/55753928/174278114-26827cd1-6502-4e86-8c39-cb89cd78e02a.png)
 Item Name: `kat_IV_16`
 Mass: 0.5
 Item Description: "Intravenous Needle"

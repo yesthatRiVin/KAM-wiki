@@ -1,5 +1,6 @@
 # FAST IO
 
+Icon: ![fast-io](https://user-images.githubusercontent.com/55753928/174277769-c716c8a6-4cca-4956-85a2-134a8ca30622.png)
 Item Name: `kat_IO_FAST`
 Mass: 0.5
 Item Description: "FAST IO"
