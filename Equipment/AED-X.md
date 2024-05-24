@@ -11,9 +11,15 @@ Item Description: "Used to monitor vitals and resuscitate patients"
 
 ## Description
 
-Lorem Ipsum
+A better version of the AED. It can be used to monitor HR, SpO2, and BP. It will also play an auditory beeping sound (which is togglable through ace interaction) that tells HR. 
 
 ## How to Use
+
+### Attaching to patient
+
+Lorem Ipsum
+
+### Administering Shock
 
 Lorem Ipsum
 
