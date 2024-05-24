@@ -24,7 +24,7 @@ TODO (Not in any particular order):
 	- [ ] BVM
 - [ ] Cardiac
 	- [ ] Cardiac Arrest
-		- [ ] Shockable Rhythms (VT, VF)
+		- [x] Shockable Rhythms (VT, VF)
 		- [ ] Non-shockable Rhythms (PEA, Asystole)
 - [ ] Pharmacy
 	- [ ] Oral
@@ -39,3 +39,4 @@ TODO (Not in any particular order):
 - [ ] APPENDICIES
 	- [ ] Aid procedure
 	- [ ] M.A.R.C.H. Graphic
+	- [ ] Cardiac Flowcharts
