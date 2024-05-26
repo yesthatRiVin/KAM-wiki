@@ -11,7 +11,13 @@ Pulseless Electrical Activity (PEA) is defined as the absence of a pulse in a pa
 
 ## Asystole
 
-Asystole is defined as the total or near total absence of electrical activity within the heart. This is the worst possible form of cardiac arrest. You can diagnose an asystole rhythm by seeing a flat or nearly flat line on an EKG reading.   
+Asystole is defined as the total or near total absence of electrical activity within the heart. This is the worst possible form of cardiac arrest. You can diagnose an asystole rhythm by seeing a flat or nearly flat line on an EKG reading.
 
 ## Treating Non-Shockable Rhythms
 
+>[!NOTE]
+> These instructions only cover treating the cardiac arrest, they assume you have stopped any major bleeding, have secured the airways, and have an IV and are administering fluid. They also assume you have attached either the AED or AED-X and have confirmed which type of cardiac arrest you are dealing with.
+
+1. Administer CPR for 45 seconds
+2. Check for pulse & analyze rhythm
+	- 

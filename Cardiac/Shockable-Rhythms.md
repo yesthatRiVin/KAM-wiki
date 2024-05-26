@@ -14,11 +14,11 @@ Ventricular Fibrillation (VF or V-Fib) is caused when the heart starts to beat e
 
 ![vFib](https://lh7-us.googleusercontent.com/X2VSjZjR-3utt8pGzhumf3XJ-lLb0EShSjcMYiUV6asDBM2pMVNN868N_Xd3ryfXsZY54eh83f9sv9BuSVv14LlYRqSS6z-vrSQaFwiaUI-Th4PJgqSQVoClCpx5oTPUrMN1e3WCaA2skfFbJeybL8U)
 
-## Treating Shockable Rhythmns
+## Treating Shockable Rhythms
 
 The way to treat a shockable rhythm depends on the type of cardiac arrest. It's why equipment like the AED-X is so important, as the EKG feature allows you to rapidly diagnose the type of cardiac arrest and administer the proper treatment. If you only have an AED, treat all shockable rhythms as V-Tac.
 
->![NOTE]
+>[!NOTE]
 > These instructions only cover treating the cardiac arrest, they assume you have stopped any major bleeding, have secured the airways, and have an IV and are administering fluid. They also assume you have attached either the AED or AED-X and have confirmed which type of cardiac arrest you are dealing with.
 
 ### Treating V-Tac
@@ -35,18 +35,18 @@ The way to treat a shockable rhythm depends on the type of cardiac arrest. It's 
 1. Analyze rhythm & check for pulse
 1. Inject [lidocaine](/Pharmacy/IV-Medication.md#lidocaine) and administer another shock
 1. Analyze rhythm & check for pulse
-1. If still in V-Tac, administer epineprine every 2 minutes and continue shocking until change in status or ROSC
+1. If still in V-Tac, administer epinephrine every 2 minutes and continue shocking until change in status or ROSC
 
 ### Treating V-Fib
 
 1. Administer a shock using either the AED or AED-X
-1. Analyze rhythm & check for pulse
+2. Analyze rhythm & check for pulse
     - "Shock Advised": Continue to next step
     - "No Shock Advised" & No pulse: Begin treatment for [non shockable rhythms](/Cardiac/Non-Shockable-Rhythms.md#treating-non-shockable-rhythms)
     - "No Shock Advised" & Pulse: Cease treatment for Cardiac Arrest
     - If using an AED-X, instead check the EKG to make sure it is still V-Fib
-1. Inject [epinephrine](/Pharmacy/IM-Medication.md#epinephrine) and administer another shock
-1. Analyze rhythm & check for pulse
-1. Inject [amiodarone](/Pharmacy/IV-Medication.md#amiodarone) and administer another shock
-1. Analyze rhythm & check for pulse
-1. If still in V-Fib, administer epineprine every 2 minutes and continue shocking until change in status or ROSC. 
+3. Inject [epinephrine](/Pharmacy/IM-Medication.md#epinephrine) and administer another shock
+4. Analyze rhythm & check for pulse
+5. Inject [amiodarone](/Pharmacy/IV-Medication.md#amiodarone) and administer another shock
+6. Analyze rhythm & check for pulse
+7. If still in V-Fib, administer epinephrine every 2 minutes and continue shocking until change in status or ROSC. 
