@@ -3,10 +3,10 @@
 
 # AED
 
-Icon: ![AED](https://user-images.githubusercontent.com/55753928/170477092-a766bd72-b5c2-495c-856c-586cec030cad.png)
+![AED](https://user-images.githubusercontent.com/55753928/170477092-a766bd72-b5c2-495c-856c-586cec030cad.png)
 Item Name: `kat_AED`
 Mass: 30
-Item Description: "Automated External Defibrillator"
+Item Description: "Used to resuscitate patients"
 
 ---
 
