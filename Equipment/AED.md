@@ -12,8 +12,7 @@ Item Description: "Used to resuscitate patients"
 
 ## Description
 
-Lorem Ipsum
-
+The AED is used to treat shockable cardiac arrests. In certain situations, it is much more effective to treat cardiac arrest that CPR, especially when combined with drugs such as adenosine and lidocaine.
 ## How to Use
 
 - Ensure nobody touches the patient (no CPR/ BVM is performed)
